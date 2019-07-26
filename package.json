@@ -1,0 +1,15 @@
+{
+  "name": "route-service",
+  "version": "1.0.0",
+  "description": "gestion des routes de energie livree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arseneKOFFI",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0"
+  }
+}
